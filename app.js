@@ -1,9 +1,9 @@
-const dasyOfWeek = ["mon" , "tue" , "wed" , "thu" , "fri" , "sat" ];
-
-// Get Item from Array
-console.log(dasyOfWeek);
-
-// Add one more day to the array
-dasyOfWeek.push("sun");
-
-console.log(dasyOfWeek);
+const player = {
+    name: "nico",
+    points: 10,
+    fat: true,
+};
+console.log(player);
+player.lastName = "potato";
+player.points = 15;
+console.log(player);
