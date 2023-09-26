@@ -1,8 +1,7 @@
-function sayHello(name){
-    console.log("Hello my name is " + name);
-};
+const age = parseInt(prompt("How old are you?"));
 
-sayHello("A");
-sayHello("B");
-sayHello("C");
-sayHello("D");
+if(isNaN(age)){
+    console.log("Please write a number");
+}else{
+    console.log("Thank you for writing your age.");
+}
