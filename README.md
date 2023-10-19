@@ -7,4 +7,5 @@
 + 사용언어 : JavaSciprt
 + 사용툴 : Vscode
 
-## ** test ** ##
+## ** 상세 기능 ** ##
+<img src="https://github.com/Lospel/JS_momentum/assets/115764991/ee35f08f-9c48-4969-a641-ee0b4009471d" width="200" height="200">
