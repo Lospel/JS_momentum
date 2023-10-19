@@ -6,7 +6,3 @@
 + JS만을 사용하여 만든 Chrom Momentum 웹 애플리케이션.
 + 사용언어 : JavaSciprt
 + 사용툴 : Vscode
-
-## **Momentume 사용해보기** ##
-+ [채팅_서버_코드](C%23ChatProgram/src/TCPServer/ChatForm.cs)
-+ [채팅_클라이언트_코드](C%23ChatProgram/src/TCPClient/ChatForm.cs)
