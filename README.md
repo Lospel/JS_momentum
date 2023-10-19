@@ -8,8 +8,9 @@
 + 사용툴 : Vscode
 
 ## ** 상세 기능 ** ##
-<img src="https://github.com/Lospel/JS_momentum/assets/115764991/ee35f08f-9c48-4969-a641-ee0b4009471d" width="200" height="200">
-<img src="https://github.com/Lospel/JS_momentum/assets/115764991/c9c39336-77dc-4493-a5de-7112c413ebc1" width="200" height="200">
-<img src="https://github.com/Lospel/JS_momentum/assets/115764991/c16954f8-15a4-4c77-bc46-49b051aa8385" width="200" height="200">
-<img src="https://github.com/Lospel/JS_momentum/assets/115764991/3ca5f511-03ae-4759-9b15-37907761899e" width="200" height="200">
-<img src="https://github.com/Lospel/JS_momentum/assets/115764991/d9908263-06ff-4834-893d-da7e22c78266" width="200" height="200">
+
++ 현재 시간을 실시간으로 보여줍니다.
++ 로컬 저장소에 이미지 / 명언을 보여줍니다.
++ OpenWether API를 활용하여 현재 장소의 위치와 날씨를 보여줍니다.
++ 로컬 스토리지를 통해 아이디 / 메모를 저장하고 보여줍니다.
++ 저장된 정보를 언제든지 삭제할 수 있습니다.
